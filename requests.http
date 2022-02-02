@@ -1,0 +1,6 @@
+GET https://api.thecatapi.com/v1/favourites
+X-Api-Key: 86381865-4487-45c1-9061-fc6c3ad6f972
+
+### Cats Index
+
+GET http://localhost:3000/cats
